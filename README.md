@@ -1,3 +1,15 @@
+# React Countries Filter
+
+<p>Consuming an API to make a small React application by filtering countries</p>
+<img src="https://i.imgur.com/461T93a.png" alt="Example of my aplication">
+
+### 🛠 What was used
+
+The following tools were used in the construction of the project:
+
+- React
+- Tailwind
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
